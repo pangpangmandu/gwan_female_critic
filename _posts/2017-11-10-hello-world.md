@@ -1,5 +1,5 @@
 ---
-title: Hello World - TheReviewIndex
+title: Hellㅐㅐㅐo World - TheReviewIndex
 description: The first blog post to introduce TheReviewIndex.
 header: Hello World!
 duration: 1 minute read
