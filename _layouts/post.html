@@ -19,7 +19,7 @@ layout: default
     </a>
   </div>
   
-  <h2>{%if page.header %}{{ page.header }}{% else %}{{ page.title }}{% endif %}</h2>		
+  <h2 style="color: blue" >{%if page.header %}{{ page.header }}{% else %}{{ page.title }}{% endif %}</h2>		
 	<div class="by-line parent">
     <time datetime="{{ page.date | date_to_xmlschema }}"> <i>{{ page.date | date_to_string }}</i> </time>
     &nbsp;&nbsp; &middot; &nbsp;&nbsp;
