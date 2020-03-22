@@ -1,8 +1,8 @@
 ---
 title: 예술가들의 여성주의 기술론  
 description: 오경미(서울과학기술대학교)
-header: Hello World!
-duration: 1 minute read
+header: 예술가들의 여성주의 기술론
+duration:
 ---
 
 &nbsp;
